@@ -20,13 +20,13 @@ Navigate to the "OSUcapstone" directory and Make the project:<br/>
 <br/>
 <br/>
 Run the emulator:<br/>
-<img src="https://i.imgur.com/a/5xCX5z1.png" height="80%" width="80%" alt="Use the command line to start the emulator"/>
+<img src="https://i.imgur.com/CgpC5P6.png" height="80%" width="80%" alt="Use the command line to start the emulator"/>
 <br/>
-<img src="https://i.imgur.com/a/DqUUJyv.png" height="80%" width="80%" alt="Emulator main screen"/>
+<img src="https://i.imgur.com/vVFNI0Y.png" height="80%" width="80%" alt="Emulator main screen"/>
 <br/>
 <br/>
 Select "Load Rom" to start the game:<br/>
-<img src="https://i.imgur.com/a/8L4M4h5.png" height="80%" width="80%" alt="Start the game"/>
+<img src="https://i.imgur.com/b4BXAfB.png" height="80%" width="80%" alt="Start the game"/>
 </p>
 
 <!--
